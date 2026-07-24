@@ -1,0 +1,16 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint:html": "htmlhint \"**/*.html\"",
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint:js": "eslint \"**/*.js\""
+  },
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.6.1",
+    "stylelint-config-standard": "^36.0.1",
+    "eslint": "^9.8.0"
+  }
+}
