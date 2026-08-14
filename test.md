@@ -40,24 +40,18 @@
 
 ---
 
-### 🔌 APIs & Backend Integration
 
+### 🔌 API Integration & Web Standards
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-
-- HTTP / HTTPS
-- REST APIs
-- JSON
-- API Integration
-- Authentication
-- Authorization
-- JWT
-- OAuth 2.0
-- CORS
-- Error Handling
-- API Documentation
-- Basic SQL & Database Concepts
+- HTTP / HTTPS Protocols
+- RESTful APIs Consumption
+- JSON Data Handling
+- JWT & OAuth 2.0 Client Flow
+- CORS & Web Security Basics
+- Error Handling & Status Codes
+- API Documentation (Postman / Swagger)
 
 ---
 
