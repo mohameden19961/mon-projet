@@ -61,7 +61,7 @@
 ### 📦 State & Data Management
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux,react" />
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
 
