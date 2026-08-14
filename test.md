@@ -25,7 +25,7 @@
 ### 🎯 UI Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,styledcomponents,sass,postcss,storybook" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,styledcomponents,sass,postcss,storybook," />
 </p>
 
 
