@@ -42,9 +42,11 @@
 
 
 ### 🔌 API Integration & Web Standards
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
 - HTTP / HTTPS Protocols
 - RESTful APIs Consumption
 - JSON Data Handling
