@@ -44,8 +44,9 @@
 ### 🔌 API Integration & Web Standards
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=postman,swagger,graphql" />
 </p>
+
 
 - HTTP / HTTPS Protocols
 - RESTful APIs Consumption
@@ -60,8 +61,9 @@
 ### 📦 State & Data Management
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=redux,react" />
 </p>
+
 
 - Client State Management
 - Server State Management
@@ -79,8 +81,9 @@
 ### 🧪 Testing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright" />
 </p>
+
 
 - Unit Testing
 - Component Testing
@@ -134,6 +137,10 @@
 
 ### 🔐 Web Security
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
 - XSS
 - CSRF
 - CORS
@@ -146,7 +153,11 @@
 
 ---
 
-### 🔎 SEO & Web Standards
+### 🔎 SEO & Web Standards 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,nextjs" />
+</p>
+
 
 - Semantic HTML
 - Technical SEO Basics
