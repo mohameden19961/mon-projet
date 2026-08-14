@@ -25,8 +25,9 @@
 ### 🎯 UI Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,styledcomponents,sass,postcss" />
 </p>
+
 
 - CSS Flexbox & Grid
 - Responsive UI
