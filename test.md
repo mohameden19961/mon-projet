@@ -185,10 +185,10 @@ I focus on building frontend applications that are:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,docker" />
 </p>
 
-**Core:** HTML • CSS • JavaScript • TypeScript  
-**Framework:** React • Next.js  
-**Styling:** Tailwind CSS • Sass  
-**Data:** REST APIs • TanStack Query  
-**Testing:** Vitest • Jest • Playwright  
-**Tools:** Git • GitHub • VS Code • Vite  
+**Core:** HTML • CSS • JavaScript • TypeScript
+**Framework:** React • Next.js
+**Styling:** Tailwind CSS • Sass
+**Data:** REST APIs • TanStack Query
+**Testing:** Vitest • Jest • Playwright
+**Tools:** Git • GitHub • VS Code • Vite
 **Deployment:** Docker • Nginx • GitHub Actions • Vercel
