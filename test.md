@@ -154,9 +154,7 @@
 ---
 
 ### 🔎 SEO & Web Standards 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,nextjs" />
-</p>
+
 
 
 - Semantic HTML
