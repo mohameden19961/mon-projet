@@ -44,7 +44,7 @@
 ### 🔌 API Integration & Web Standards
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,swagger,graphql" />
+  <img src="https://skillicons.dev/icons?i=postman,,graphql" />
 </p>
 
 
